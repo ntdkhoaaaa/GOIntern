@@ -1,0 +1,15 @@
+.home-header-container{
+    background-color: #f9be39!important;
+    display: flex;
+    padding: 0;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    font-family: ProximaNovaBold;
+    transition: top .7s cubic-bezier(.17,.04,.03,.94);
+    .left-content{
+        display: flex;
+        // justify-content: ;
+    }
+
+}
